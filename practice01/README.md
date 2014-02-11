@@ -3,10 +3,10 @@ Practice01
 
 ###Hello World
 
-Print a string "Hello World" on screen.
+Print a string "Hello World" on the screen.
 
 `love.graphics.print("Hello World", 400, 300)`will print 
-"Hello World" in position (400, 300), you can modify the parameters to get different result on screen.
+"Hello World" in position (400, 300), you can modify the parameters to get different result on the screen.
 
 
 ```
