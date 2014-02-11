@@ -7,4 +7,5 @@ love2d_practice
 
 **Practice list:**
 
-* Practice01: Hello World
+* Practice01: [Hello World](practice01/README.md)
+* Practice02: [Show Image](practice02/README.md)
