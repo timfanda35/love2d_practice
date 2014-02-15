@@ -39,3 +39,5 @@ end
 [love.update](https://www.love2d.org/wiki/love.update)
 
 [love.keyboard.isDown](https://www.love2d.org/wiki/love.keyboard.isDown)
+
+[Tutorial:Hamster_Ball](https://www.love2d.org/wiki/Tutorial:Hamster_Ball)
